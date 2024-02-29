@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Sehaj's Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+   
+</head>
+<body>
+    <div class="hero-header">
+        <div class="wrapper">
+            <header>
+                <div class="logo">
+                    <img src="logo.jpg" class="logo">
+                </div>
+                <nav>
+                    <div class="togglebtn">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                    <ul class="navlinks">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About</a></li>
+                    </ul>
+                </nav>
+            </header>
+            <div class="container">
+                <div class="hero-pic">
+                    <img src="my.jpg" alt="profile pic">
+                </div>
+                <div class="hero-text">
+                    <h1>I'm <span>sehaj Gambhir</span><br></h1>
+                    <h4>PURSING BACHELORS IN COMPUTER APPLICATIONS FROM IPU UNIVERSITY. <br><span>I'm a passionate  fresher in the field of Web development and Data Management . <br>
+                         I'm eager to learn and grow in this dynamic industry.</span></h4><br>
+                    <h4>My Skills : <br> 1. HTML <br> 2. PHP <br> 3.CSS  <br> 4. JavaScript <br> 5. DBMS </h4>
+            
+                    <div class="social">
+                        <hr>
+                        <h2><u>Social Media</u></h2>
+                        <a href="https://www.instagram.com/sehajgambhir?igsh=MXc5Z2I1ZG1oeGt1aA%3D%3D"><i class="fa fa-instagram" aria-hidden="true">Instagram</i></a>
+                        <br>
+                        <a href="https://www.linkedin.com/in/sehaj-gambhir-a0563327a/"><i class="fa fa-linkedin-square" aria-hidden="true">linkedin</i></a>
+                    </div>
+                 </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        var togglebtn=document.querySelector(".togglebtn");
+        var nav=document.querySelector(".navlinks");
+        var links=document.querySelector(".navlinks li");
+    </script>
