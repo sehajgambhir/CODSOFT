@@ -35,7 +35,9 @@
                     <h4>PURSING BACHELORS IN COMPUTER APPLICATIONS FROM IPU UNIVERSITY. <br><span>I'm a passionate  fresher in the field of Web development and Data Management . <br>
                          I'm eager to learn and grow in this dynamic industry.</span></h4><br>
                     <h4>My Skills : <br> 1. HTML <br> 2. PHP <br> 3.CSS  <br> 4. JavaScript <br> 5. DBMS </h4>
-            
+            <div class="btn-group">
+                <a href="resume" class="btn active">Download Resume</a>
+            </div>
                     <div class="social">
                         <hr>
                         <h2><u>Social Media</u></h2>
